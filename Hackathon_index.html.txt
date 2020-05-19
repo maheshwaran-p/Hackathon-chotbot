@@ -1,0 +1,27 @@
+<!doctype html>
+
+<html>
+    <head>
+        <title> Transparent Login form </title>
+        <link rel="stylesheet" href="style.css">
+    
+
+    </head>
+    <body>
+    <action href=" https://code.sololearn.com/WJUalfF827U1/?ref=app " />
+    <div class="loginBox">
+        
+        <img src="https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png" class="user">
+        <h2>Login</h2>
+        <form>
+            <p>Email</p>
+            <input type="text" name = "" placeholder="Enter Email">
+            <p>Password</p>
+            <input type="password" name = "" placeholder="Enter Password">
+            
+         <a    href=" https://code.sololearn.com/WJUalfF827U1/?ref=app">click here then click run button to choose your language </a> 
+            
+        </form>
+    </div>
+    </body>
+</html>
