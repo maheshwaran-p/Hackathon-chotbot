@@ -1,0 +1,4222 @@
+{
+	"intents": [
+	  {
+		"intent": "capabilities",
+		"examples": [
+		  {
+			"text": "Make it rain"
+		  },
+		  {
+			"text": "Howdy mny Tieres Do you have"
+		  },
+		  {
+			"text": "how can you help me"
+		  },
+		  {
+			"text": "How are you going to help me"
+		  },
+		  {
+			"text": "hi where am i"
+		  },
+		  {
+			"text": "hi what is the time?"
+		  },
+		  {
+			"text": "Hi! what could you do ?"
+		  },
+		  {
+			"text": "Hi Watson, please tell about the latest news"
+		  },
+		  {
+			"text": "Hi, can you read me a book?"
+		  },
+		  {
+			"text": "hi can we go to canada?"
+		  },
+		  {
+			"text": "hey whats the current time today"
+		  },
+		  {
+			"text": "Hey!Stop!UseBreak"
+		  },
+		  {
+			"text": "help me"
+		  },
+		  {
+			"text": "help"
+		  },
+		  {
+			"text": "Hello Watson! Can you bring me home?"
+		  },
+		  {
+			"text": "Hello can i have some help"
+		  },
+		  {
+			"text": "do you know something about cognitive?"
+		  },
+		  {
+			"text": "Do you do anything else?"
+		  },
+		  {
+			"text": "do you do anything else"
+		  },
+		  {
+			"text": "don't drive any further"
+		  },
+		  {
+			"text": "Change weather"
+		  },
+		  {
+			"text": "Change the weather"
+		  },
+		  {
+			"text": "Can you tell me random facts?"
+		  },
+		  {
+			"text": "can you tell me my cars average sale price"
+		  },
+		  {
+			"text": "can you tell me about problem"
+		  },
+		  {
+			"text": "can you speak something with me?"
+		  },
+		  {
+			"text": "can you say me the time?"
+		  },
+		  {
+			"text": "can you read me"
+		  },
+		  {
+			"text": "can you learn something new?"
+		  },
+		  {
+			"text": "can you help me to turn on the left light"
+		  },
+		  {
+			"text": "can you help me find a candidate?"
+		  },
+		  {
+			"text": "Can you hear me?"
+		  },
+		  {
+			"text": "can you harm me?"
+		  },
+		  {
+			"text": "Can you drive anywhere else?"
+		  },
+		  {
+			"text": "can you do xyz?"
+		  },
+		  {
+			"text": "can you do this?"
+		  },
+		  {
+			"text": "CAN YOU DO OTHER THING?"
+		  },
+		  {
+			"text": "can you do more than that?"
+		  },
+		  {
+			"text": "can you do it?"
+		  },
+		  {
+			"text": "can you do coding ?"
+		  },
+		  {
+			"text": "Can you do anything that helps me drive?"
+		  },
+		  {
+			"text": "can you direct me please?"
+		  },
+		  {
+			"text": "tell me what things you can do"
+		  },
+		  {
+			"text": "stop it from raining"
+		  },
+		  {
+			"text": "so what did you learn?"
+		  },
+		  {
+			"text": "need help"
+		  },
+		  {
+			"text": "Make it stop raining."
+		  },
+		  {
+			"text": "lets go"
+		  },
+		  {
+			"text": "can you change lanes"
+		  },
+		  {
+			"text": "can u please do that"
+		  },
+		  {
+			"text": "can i training you?"
+		  },
+		  {
+			"text": "Can I teach you"
+		  },
+		  {
+			"text": "can I manipulate the"
+		  },
+		  {
+			"text": "but can I ask you"
+		  },
+		  {
+			"text": "adapt to current weather condition"
+		  },
+		  {
+			"text": "you can say what is php"
+		  },
+		  {
+			"text": "you can not change yourself?"
+		  },
+		  {
+			"text": "what u know about car?"
+		  },
+		  {
+			"text": "what things can you turn on?"
+		  },
+		  {
+			"text": "what things can you do"
+		  },
+		  {
+			"text": "what should i ask"
+		  },
+		  {
+			"text": "what question"
+		  },
+		  {
+			"text": "What makes you different from Siri or Google"
+		  },
+		  {
+			"text": "what else"
+		  },
+		  {
+			"text": "what do you know"
+		  },
+		  {
+			"text": "What do you have"
+		  },
+		  {
+			"text": "what do you have?"
+		  },
+		  {
+			"text": "what did you learn"
+		  },
+		  {
+			"text": "What devices are you able to connect with?"
+		  },
+		  {
+			"text": "what cayou do?"
+		  },
+		  {
+			"text": "what care you capablities"
+		  },
+		  {
+			"text": "what capabilities you have"
+		  },
+		  {
+			"text": "what can you turn on things?"
+		  },
+		  {
+			"text": "what can you help me with"
+		  },
+		  {
+			"text": "what can you do for me"
+		  },
+		  {
+			"text": "what canyou do"
+		  },
+		  {
+			"text": "what can you do"
+		  },
+		  {
+			"text": "What can i say"
+		  },
+		  {
+			"text": "what can I do"
+		  },
+		  {
+			"text": "What ca I ask?"
+		  },
+		  {
+			"text": "What are your functions?"
+		  },
+		  {
+			"text": "what are your capabilities Watson"
+		  },
+		  {
+			"text": "what are your benefits"
+		  },
+		  {
+			"text": "what are you capable of"
+		  },
+		  {
+			"text": "What are you"
+		  },
+		  {
+			"text": "What a can asc iu?"
+		  },
+		  {
+			"text": "turn ac when rain ends?"
+		  },
+		  {
+			"text": "tell me what you can do"
+		  },
+		  {
+			"text": "Tell me what to do."
+		  }
+		]
+	  },
+	  {
+		"intent": "selections",
+		"examples": [
+		  {
+			"text": "what options do ypu have?"
+		  },
+		  {
+			"text": "what options do you have?"
+		  },
+		  {
+			"text": "what options are there?"
+		  },
+		  {
+			"text": "What options?"
+		  },
+		  {
+			"text": "what option do you have?"
+		  },
+		  {
+			"text": "what exactly do you have?"
+		  }
+		]
+	  },
+	  {
+		"intent": "turn_on",
+		"examples": [
+		  {
+			"text": "head lights turn on"
+		  },
+		  {
+			"text": "hello, my music is rock"
+		  },
+		  {
+			"text": "hello Watson please turn the lights on"
+		  },
+		  {
+			"text": "Hey Watson.. Turn on the lights"
+		  },
+		  {
+			"text": "hi i like to hear some music"
+		  },
+		  {
+			"text": "hip hop music"
+		  },
+		  {
+			"text": "hi tun on"
+		  },
+		  {
+			"text": "hi turn lights on"
+		  },
+		  {
+			"text": "Hi Watson, can you please play a song?"
+		  },
+		  {
+			"text": "House music"
+		  },
+		  {
+			"text": "how about some music"
+		  },
+		  {
+			"text": "how about some music?"
+		  },
+		  {
+			"text": "how about some rock music?"
+		  },
+		  {
+			"text": "How can i turn the wipers on?"
+		  },
+		  {
+			"text": "how to switch on my car"
+		  },
+		  {
+			"text": "I'd like to hear rock music"
+		  },
+		  {
+			"text": "I'd like to listen to musci"
+		  },
+		  {
+			"text": "if the headlights are off, can you turn them on?"
+		  },
+		  {
+			"text": "Indian classical music"
+		  },
+		  {
+			"text": "indian music"
+		  },
+		  {
+			"text": "indie music"
+		  },
+		  {
+			"text": "I need music"
+		  },
+		  {
+			"text": "I prefer the latino music"
+		  },
+		  {
+			"text": "I think jazz music"
+		  },
+		  {
+			"text": "it is raining. please turn the wipers on"
+		  },
+		  {
+			"text": "it is raining. turn on the wipers"
+		  },
+		  {
+			"text": "it's cold in here"
+		  },
+		  {
+			"text": "it's hot in here"
+		  },
+		  {
+			"text": "It's raining again. turn on the light."
+		  },
+		  {
+			"text": "it's raining, can you turn on the windshield wipers"
+		  },
+		  {
+			"text": "It's raining, shouldn't you turn the wipers on?"
+		  },
+		  {
+			"text": "it's raining, turn on"
+		  },
+		  {
+			"text": "it's raining turn on the shield"
+		  },
+		  {
+			"text": "Play misic"
+		  },
+		  {
+			"text": "play mmusic"
+		  },
+		  {
+			"text": "play movie"
+		  },
+		  {
+			"text": "play mozart"
+		  },
+		  {
+			"text": "play mucis"
+		  },
+		  {
+			"text": "Play mucisc"
+		  },
+		  {
+			"text": "play mucsic"
+		  },
+		  {
+			"text": "Play mudic"
+		  },
+		  {
+			"text": "play musc"
+		  },
+		  {
+			"text": "play musci"
+		  },
+		  {
+			"text": "play musi"
+		  },
+		  {
+			"text": "play music'"
+		  },
+		  {
+			"text": "play musica"
+		  },
+		  {
+			"text": "Play music or find restaurants?"
+		  },
+		  {
+			"text": "play musik"
+		  },
+		  {
+			"text": "play musioc"
+		  },
+		  {
+			"text": "play musix"
+		  },
+		  {
+			"text": "play muskc"
+		  },
+		  {
+			"text": "play musuic"
+		  },
+		  {
+			"text": "play muzik"
+		  },
+		  {
+			"text": "play my cd"
+		  },
+		  {
+			"text": "play my favorit"
+		  },
+		  {
+			"text": "Play my favorite song"
+		  },
+		  {
+			"text": "play my favourite song"
+		  },
+		  {
+			"text": "play my jams"
+		  },
+		  {
+			"text": "Play my tongue favorite song"
+		  },
+		  {
+			"text": "Play news channle."
+		  },
+		  {
+			"text": "Play newsheadline for me"
+		  },
+		  {
+			"text": "play next song"
+		  },
+		  {
+			"text": "Play Nicki Minaj."
+		  },
+		  {
+			"text": "play nirvana"
+		  },
+		  {
+			"text": "Play No3."
+		  },
+		  {
+			"text": "play NPR"
+		  },
+		  {
+			"text": "play other genre"
+		  },
+		  {
+			"text": "play pandora"
+		  },
+		  {
+			"text": "Play pegboard nerds"
+		  },
+		  {
+			"text": "Play Pink Floyd"
+		  },
+		  {
+			"text": "Play Pink Floyd."
+		  },
+		  {
+			"text": "Play PIN radio"
+		  },
+		  {
+			"text": "play please"
+		  },
+		  {
+			"text": "play pokemon go"
+		  },
+		  {
+			"text": "play pop"
+		  },
+		  {
+			"text": "play psico killer"
+		  },
+		  {
+			"text": "Play punk"
+		  },
+		  {
+			"text": "Play radio"
+		  },
+		  {
+			"text": "play radio 4"
+		  },
+		  {
+			"text": "Play rains of castamere"
+		  },
+		  {
+			"text": "play ramazzotti"
+		  },
+		  {
+			"text": "Play rap"
+		  },
+		  {
+			"text": "play rata blanca"
+		  },
+		  {
+			"text": "play Raul"
+		  },
+		  {
+			"text": "play R&B"
+		  },
+		  {
+			"text": "Play r & b"
+		  },
+		  {
+			"text": "Play Rebecca's album"
+		  },
+		  {
+			"text": "play reggae"
+		  },
+		  {
+			"text": "Play rihanna"
+		  },
+		  {
+			"text": "play rock!"
+		  },
+		  {
+			"text": "PLay rock"
+		  },
+		  {
+			"text": "play rock and blues"
+		  },
+		  {
+			"text": "Play rock dude"
+		  },
+		  {
+			"text": "play rock musi"
+		  },
+		  {
+			"text": "play rock musich"
+		  },
+		  {
+			"text": "Play rock musik"
+		  },
+		  {
+			"text": "play rock musis"
+		  },
+		  {
+			"text": "play rock please"
+		  },
+		  {
+			"text": "play rock song"
+		  },
+		  {
+			"text": "play rolling stones"
+		  },
+		  {
+			"text": "play salsa"
+		  },
+		  {
+			"text": "play samba"
+		  },
+		  {
+			"text": "Play shakira"
+		  },
+		  {
+			"text": "play She will be loved"
+		  },
+		  {
+			"text": "Play Sinatra, please."
+		  },
+		  {
+			"text": "play smoe musics"
+		  },
+		  {
+			"text": "play smooth jazz"
+		  },
+		  {
+			"text": "play smth"
+		  },
+		  {
+			"text": "play soad"
+		  },
+		  {
+			"text": "play soccer"
+		  },
+		  {
+			"text": "play soem jazz"
+		  },
+		  {
+			"text": "play some lights"
+		  },
+		  {
+			"text": "play som emusic"
+		  },
+		  {
+			"text": "Play something"
+		  },
+		  {
+			"text": "play something groovy"
+		  },
+		  {
+			"text": "Play something in car rdaio"
+		  },
+		  {
+			"text": "Play something mellow"
+		  },
+		  {
+			"text": "play something of roue choice"
+		  },
+		  {
+			"text": "Play something over the speakers"
+		  },
+		  {
+			"text": "Play somethings"
+		  },
+		  {
+			"text": "play something that sucks"
+		  },
+		  {
+			"text": "play something, then"
+		  },
+		  {
+			"text": "play som jazz"
+		  },
+		  {
+			"text": "play som nusic"
+		  },
+		  {
+			"text": "play som rock"
+		  },
+		  {
+			"text": "Play song"
+		  },
+		  {
+			"text": "Play Song, El pollito"
+		  },
+		  {
+			"text": "play song musing"
+		  },
+		  {
+			"text": "play songs"
+		  },
+		  {
+			"text": "Play songs by Metallica"
+		  },
+		  {
+			"text": "play soome muusic"
+		  },
+		  {
+			"text": "play soud"
+		  },
+		  {
+			"text": "play sound"
+		  },
+		  {
+			"text": "play spotify"
+		  },
+		  {
+			"text": "plays the music"
+		  },
+		  {
+			"text": "play sum muzic"
+		  },
+		  {
+			"text": "play swing"
+		  },
+		  {
+			"text": "play taylor switch"
+		  },
+		  {
+			"text": "play techno"
+		  },
+		  {
+			"text": "play tecno"
+		  },
+		  {
+			"text": "Play the beatles"
+		  },
+		  {
+			"text": "Play the Beatles."
+		  },
+		  {
+			"text": "play the death"
+		  },
+		  {
+			"text": "Play the first one"
+		  },
+		  {
+			"text": "Play the funtastic song."
+		  },
+		  {
+			"text": "play the radio, please"
+		  },
+		  {
+			"text": "play the song Until you"
+		  },
+		  {
+			"text": "play top 40"
+		  },
+		  {
+			"text": "play toto"
+		  },
+		  {
+			"text": "play trance"
+		  },
+		  {
+			"text": "play tunes"
+		  },
+		  {
+			"text": "play tv"
+		  },
+		  {
+			"text": "play U2"
+		  },
+		  {
+			"text": "play video"
+		  },
+		  {
+			"text": "play violin"
+		  },
+		  {
+			"text": "play Waterloo"
+		  },
+		  {
+			"text": "play wipe"
+		  },
+		  {
+			"text": "play wiper"
+		  },
+		  {
+			"text": "play wipers"
+		  },
+		  {
+			"text": "play with hot rocks'"
+		  },
+		  {
+			"text": "play with me"
+		  },
+		  {
+			"text": "play your jazz!"
+		  },
+		  {
+			"text": "Please i would like to hear some music"
+		  },
+		  {
+			"text": "please lights on?"
+		  },
+		  {
+			"text": "please music"
+		  },
+		  {
+			"text": "please place in music"
+		  },
+		  {
+			"text": "please play"
+		  },
+		  {
+			"text": "please play a song"
+		  },
+		  {
+			"text": "please, play Elvis"
+		  },
+		  {
+			"text": "Please play faded"
+		  },
+		  {
+			"text": "I wanna listen blues"
+		  },
+		  {
+			"text": "I wanna listen jazz"
+		  },
+		  {
+			"text": "i wannna hear  music"
+		  },
+		  {
+			"text": "I want some Michael jackson."
+		  },
+		  {
+			"text": "i want some rock"
+		  },
+		  {
+			"text": "i want the wiper on"
+		  },
+		  {
+			"text": "i want to have the latest news"
+		  },
+		  {
+			"text": "I want to listen to jazz"
+		  },
+		  {
+			"text": "i want to turn on the radio"
+		  },
+		  {
+			"text": "I was to listen brought"
+		  },
+		  {
+			"text": "i will hear music"
+		  },
+		  {
+			"text": "i wouÃ¶d ike music"
+		  },
+		  {
+			"text": "I would like to hear some music"
+		  },
+		  {
+			"text": "I would like to listening some music"
+		  },
+		  {
+			"text": "I would like to listen to some fine mozart"
+		  },
+		  {
+			"text": "i would like to start the car"
+		  },
+		  {
+			"text": "I would like to turn on the radio."
+		  },
+		  {
+			"text": "japanese music"
+		  },
+		  {
+			"text": "jazz is fine lets play it"
+		  },
+		  {
+			"text": "Jazz music"
+		  },
+		  {
+			"text": "jazz music please"
+		  },
+		  {
+			"text": "jazz, play really loud"
+		  },
+		  {
+			"text": "late rock music"
+		  },
+		  {
+			"text": "les soul music"
+		  },
+		  {
+			"text": "let's have some classic"
+		  },
+		  {
+			"text": "let's hear some music"
+		  },
+		  {
+			"text": "Let's listen to some tunes."
+		  },
+		  {
+			"text": "lets play piano"
+		  },
+		  {
+			"text": "let us Lee my music"
+		  },
+		  {
+			"text": "light rock music"
+		  },
+		  {
+			"text": "lights"
+		  },
+		  {
+			"text": "lights must be ON"
+		  },
+		  {
+			"text": "lights on!"
+		  },
+		  {
+			"text": "Lights on"
+		  },
+		  {
+			"text": "lights on please"
+		  },
+		  {
+			"text": "lights on turn"
+		  },
+		  {
+			"text": "lights turn lights please then turn on the music"
+		  },
+		  {
+			"text": "Lights turn on"
+		  },
+		  {
+			"text": "Lisa music"
+		  },
+		  {
+			"text": "listen jazz"
+		  },
+		  {
+			"text": "listen to music"
+		  },
+		  {
+			"text": "listen to radio"
+		  },
+		  {
+			"text": "litsen music"
+		  },
+		  {
+			"text": "live music"
+		  },
+		  {
+			"text": "load other music"
+		  },
+		  {
+			"text": "make lights on"
+		  },
+		  {
+			"text": "Make music"
+		  },
+		  {
+			"text": "Medival music please"
+		  },
+		  {
+			"text": "metal music"
+		  },
+		  {
+			"text": "minimal music"
+		  },
+		  {
+			"text": "music!"
+		  },
+		  {
+			"text": "music?"
+		  },
+		  {
+			"text": "music electronic"
+		  },
+		  {
+			"text": "Music from Dire Straits"
+		  },
+		  {
+			"text": "Music Jazz"
+		  },
+		  {
+			"text": "music ok?"
+		  },
+		  {
+			"text": "music on~"
+		  },
+		  {
+			"text": "Music onn"
+		  },
+		  {
+			"text": "music player"
+		  },
+		  {
+			"text": "music plays a means that"
+		  },
+		  {
+			"text": "Music please"
+		  },
+		  {
+			"text": "Music please."
+		  },
+		  {
+			"text": "music pls"
+		  },
+		  {
+			"text": "music reagge"
+		  },
+		  {
+			"text": "Music would be great."
+		  },
+		  {
+			"text": "need the lights on"
+		  },
+		  {
+			"text": "nice music"
+		  },
+		  {
+			"text": "no, play rock now"
+		  },
+		  {
+			"text": "No, turn on the lights"
+		  },
+		  {
+			"text": "now do music"
+		  },
+		  {
+			"text": "now switch the lights on again!"
+		  },
+		  {
+			"text": "oh just start the car and drive to manhatten"
+		  },
+		  {
+			"text": "okay maybe play contemporary jazz songs."
+		  },
+		  {
+			"text": "okay sing music"
+		  },
+		  {
+			"text": "Okay. Turn on the lights."
+		  },
+		  {
+			"text": "okay turn the lights on"
+		  },
+		  {
+			"text": "ok can youplay some rock"
+		  },
+		  {
+			"text": "Ok, fine. Then turn the lights on"
+		  },
+		  {
+			"text": "ok, i'll listen to something then"
+		  },
+		  {
+			"text": "ok now play beethoven"
+		  },
+		  {
+			"text": "ok ok, just turn on the lights then"
+		  },
+		  {
+			"text": "ok play"
+		  },
+		  {
+			"text": "ok. play Bad Religion for me"
+		  },
+		  {
+			"text": "ok play it"
+		  },
+		  {
+			"text": "Ok, play jazz"
+		  },
+		  {
+			"text": "ok play rock"
+		  },
+		  {
+			"text": "ok, play rock"
+		  },
+		  {
+			"text": "Ok, Play som emusic"
+		  },
+		  {
+			"text": "ok, please play rock."
+		  },
+		  {
+			"text": "ok, rock music"
+		  },
+		  {
+			"text": "ok then play"
+		  },
+		  {
+			"text": "okthen turn on the lights"
+		  },
+		  {
+			"text": "ok, tun the lights on"
+		  },
+		  {
+			"text": "Ok. Turning on the lights."
+		  },
+		  {
+			"text": "ok turn on the lights"
+		  },
+		  {
+			"text": "on"
+		  },
+		  {
+			"text": "on left light"
+		  },
+		  {
+			"text": "On Lights"
+		  },
+		  {
+			"text": "on my lights"
+		  },
+		  {
+			"text": "on now"
+		  },
+		  {
+			"text": "On the Lights"
+		  },
+		  {
+			"text": "open source jazz music"
+		  },
+		  {
+			"text": "open the music"
+		  },
+		  {
+			"text": "paly music"
+		  },
+		  {
+			"text": "pick music"
+		  },
+		  {
+			"text": "pla a music watson"
+		  },
+		  {
+			"text": "pla music"
+		  },
+		  {
+			"text": "play"
+		  },
+		  {
+			"text": "play 21"
+		  },
+		  {
+			"text": "Play 97.1 FM"
+		  },
+		  {
+			"text": "play abba"
+		  },
+		  {
+			"text": "play ac"
+		  },
+		  {
+			"text": "play a CD"
+		  },
+		  {
+			"text": "play ac dc"
+		  },
+		  {
+			"text": "Play ACDC"
+		  },
+		  {
+			"text": "Play AC/DC"
+		  },
+		  {
+			"text": "play a classic song"
+		  },
+		  {
+			"text": "play a dvd"
+		  },
+		  {
+			"text": "Play a game"
+		  },
+		  {
+			"text": "play a guitarr"
+		  },
+		  {
+			"text": "turn on cabin lights"
+		  },
+		  {
+			"text": "Turn on emergency lights"
+		  },
+		  {
+			"text": "turn on hazard lights"
+		  },
+		  {
+			"text": "Turn on head lights"
+		  },
+		  {
+			"text": "turn on kitchen lights"
+		  },
+		  {
+			"text": "tur n on lights"
+		  },
+		  {
+			"text": "turn on lights?"
+		  },
+		  {
+			"text": "turn on lights."
+		  },
+		  {
+			"text": "TURN ON LIGHTS"
+		  },
+		  {
+			"text": "turn on lights and wipers"
+		  },
+		  {
+			"text": "turn on lights brighter"
+		  },
+		  {
+			"text": "turn on lights  plesae"
+		  },
+		  {
+			"text": "turn on lights pls"
+		  },
+		  {
+			"text": "Turn on mmy lights"
+		  },
+		  {
+			"text": "turn on mu lights"
+		  },
+		  {
+			"text": "Turnon music"
+		  },
+		  {
+			"text": "turn on my lights"
+		  },
+		  {
+			"text": "turn on my phone"
+		  },
+		  {
+			"text": "turn on rear lights"
+		  },
+		  {
+			"text": "turn on the ass fucking lights"
+		  },
+		  {
+			"text": "turn on the bright lights"
+		  },
+		  {
+			"text": "Turn on the car's engine, and drive off!"
+		  },
+		  {
+			"text": "Turn on the fan"
+		  },
+		  {
+			"text": "Turn ON the Head Lights"
+		  },
+		  {
+			"text": "turn on the heater please"
+		  },
+		  {
+			"text": "turn on the interior lights"
+		  },
+		  {
+			"text": "turn on the light"
+		  },
+		  {
+			"text": "Turn on the lights"
+		  },
+		  {
+			"text": "Turn on the  lights"
+		  },
+		  {
+			"text": "Turn on the lights!"
+		  },
+		  {
+			"text": "Turn on the lights?"
+		  },
+		  {
+			"text": "Turn on the lights."
+		  },
+		  {
+			"text": "Turn on the lights.."
+		  },
+		  {
+			"text": "Turn on the lights and ac"
+		  },
+		  {
+			"text": "turn on the lights and wipers please"
+		  },
+		  {
+			"text": "turn on the lights bitch"
+		  },
+		  {
+			"text": "Turn on the lights --  it's too dark outside"
+		  },
+		  {
+			"text": "turn on the lights place"
+		  },
+		  {
+			"text": "turn on the lights please"
+		  },
+		  {
+			"text": "turn on the lights, please"
+		  },
+		  {
+			"text": "Turn on the lights please?"
+		  },
+		  {
+			"text": "Turn on the lights please."
+		  },
+		  {
+			"text": "turn on the lights too"
+		  },
+		  {
+			"text": "turn on the strobe lights"
+		  },
+		  {
+			"text": "Turn on the wipers and lights"
+		  },
+		  {
+			"text": "turn on the wipers and the lights"
+		  },
+		  {
+			"text": "turn on the wipers how"
+		  },
+		  {
+			"text": "turn on th lights"
+		  },
+		  {
+			"text": "Turn on wipers and lights"
+		  },
+		  {
+			"text": "turn on wipers. Full speed"
+		  },
+		  {
+			"text": "turn on wipers when it is raining"
+		  },
+		  {
+			"text": "turn. On your lights"
+		  },
+		  {
+			"text": "Turn on your lights."
+		  },
+		  {
+			"text": "turno on lights"
+		  },
+		  {
+			"text": "turno on the lights"
+		  },
+		  {
+			"text": "turns eh lights on"
+		  },
+		  {
+			"text": "turn the fan on"
+		  },
+		  {
+			"text": "turn the headlights n"
+		  },
+		  {
+			"text": "turn th ehead lights on"
+		  },
+		  {
+			"text": "Turn the head lights on"
+		  },
+		  {
+			"text": "turn the info screen on"
+		  },
+		  {
+			"text": "Turn the lights on."
+		  },
+		  {
+			"text": "TURN THE LIGHTS ON"
+		  },
+		  {
+			"text": "turn the lights on, please"
+		  },
+		  {
+			"text": "Turn the lights on please"
+		  },
+		  {
+			"text": "Turn the lights on please.."
+		  },
+		  {
+			"text": "turn the wipers off on"
+		  },
+		  {
+			"text": "Turon on my lights"
+		  },
+		  {
+			"text": "turon on the lights"
+		  },
+		  {
+			"text": "tur on the lights"
+		  },
+		  {
+			"text": "tuTurn on the lights"
+		  },
+		  {
+			"text": "urn on lights"
+		  },
+		  {
+			"text": "urn on my lights"
+		  },
+		  {
+			"text": "urn on the lights"
+		  },
+		  {
+			"text": "want the lights activated"
+		  },
+		  {
+			"text": "want the lights switched on"
+		  },
+		  {
+			"text": "Watson plase turn on the lights"
+		  },
+		  {
+			"text": "watson play a song"
+		  },
+		  {
+			"text": "watson please turn my ac on"
+		  },
+		  {
+			"text": "watson, turn on the lights"
+		  },
+		  {
+			"text": "We should probably turn our lights on too"
+		  },
+		  {
+			"text": "What about music"
+		  },
+		  {
+			"text": "what about soft music?"
+		  },
+		  {
+			"text": "what about techno music"
+		  },
+		  {
+			"text": "what can I turn on?"
+		  },
+		  {
+			"text": "what music can you play?"
+		  },
+		  {
+			"text": "what music do we have?"
+		  },
+		  {
+			"text": "what type of music?"
+		  },
+		  {
+			"text": "which genre can you play"
+		  },
+		  {
+			"text": "Wow, can you play jazz?"
+		  },
+		  {
+			"text": "yes turn on the lights"
+		  },
+		  {
+			"text": "yes,Turn on the lights"
+		  },
+		  {
+			"text": "you can play rock"
+		  },
+		  {
+			"text": "yup music"
+		  },
+		  {
+			"text": "play a jazz song"
+		  },
+		  {
+			"text": "play aloud"
+		  },
+		  {
+			"text": "Play a movie"
+		  },
+		  {
+			"text": "play a musi"
+		  },
+		  {
+			"text": "Play an episode of Knight Rider"
+		  },
+		  {
+			"text": "play a nice song"
+		  },
+		  {
+			"text": "play a porn movie"
+		  },
+		  {
+			"text": "Play artist Halsey"
+		  },
+		  {
+			"text": "Play a Sade for me."
+		  },
+		  {
+			"text": "Play a song"
+		  },
+		  {
+			"text": "play a song for me"
+		  },
+		  {
+			"text": "play a tune with michael jackson"
+		  },
+		  {
+			"text": "Play a video"
+		  },
+		  {
+			"text": "play Bach"
+		  },
+		  {
+			"text": "Play beatles"
+		  },
+		  {
+			"text": "Play Beethoven"
+		  },
+		  {
+			"text": "play black metal"
+		  },
+		  {
+			"text": "play bohemian rhapsody"
+		  },
+		  {
+			"text": "play bollywood song"
+		  },
+		  {
+			"text": "Play Bon Jovi"
+		  },
+		  {
+			"text": "play bosa nova"
+		  },
+		  {
+			"text": "play cd"
+		  },
+		  {
+			"text": "play chainsmoker closer"
+		  },
+		  {
+			"text": "Play chess"
+		  },
+		  {
+			"text": "play chopin"
+		  },
+		  {
+			"text": "Play classic"
+		  },
+		  {
+			"text": "Play classical"
+		  },
+		  {
+			"text": "play classical now"
+		  },
+		  {
+			"text": "play classic rock"
+		  },
+		  {
+			"text": "play clezmer"
+		  },
+		  {
+			"text": "play coffee"
+		  },
+		  {
+			"text": "play coldplay"
+		  },
+		  {
+			"text": "play country"
+		  },
+		  {
+			"text": "play dance"
+		  },
+		  {
+			"text": "Play dat spicy mixtape"
+		  },
+		  {
+			"text": "play drake"
+		  },
+		  {
+			"text": "play dvd"
+		  },
+		  {
+			"text": "play easy listening"
+		  },
+		  {
+			"text": "play edm"
+		  },
+		  {
+			"text": "played the music swept one pilots"
+		  },
+		  {
+			"text": "play electro"
+		  },
+		  {
+			"text": "play elvis"
+		  },
+		  {
+			"text": "Player music"
+		  },
+		  {
+			"text": "play football"
+		  },
+		  {
+			"text": "play football?"
+		  },
+		  {
+			"text": "play funk"
+		  },
+		  {
+			"text": "play funking jazz"
+		  },
+		  {
+			"text": "please play jazz"
+		  },
+		  {
+			"text": "please, play jazz"
+		  },
+		  {
+			"text": "Please play radio"
+		  },
+		  {
+			"text": "please, play rock"
+		  },
+		  {
+			"text": "PLease play Rock"
+		  },
+		  {
+			"text": "please play something"
+		  },
+		  {
+			"text": "please play the jazz you want to so bad"
+		  },
+		  {
+			"text": "please play youth by troye sivan"
+		  },
+		  {
+			"text": "please put jazz music"
+		  },
+		  {
+			"text": "PLease put pop music"
+		  },
+		  {
+			"text": "please switch on the lights"
+		  },
+		  {
+			"text": "please switch the night lights on"
+		  },
+		  {
+			"text": "Please turn on the head lights"
+		  },
+		  {
+			"text": "Please turn on the head lights."
+		  },
+		  {
+			"text": "please, turn on the lights"
+		  },
+		  {
+			"text": "Please turn on the lights"
+		  },
+		  {
+			"text": "please turn  the lights on"
+		  },
+		  {
+			"text": "Please turn the lights on"
+		  },
+		  {
+			"text": "Please, turn the lights on"
+		  },
+		  {
+			"text": "pley som rok music"
+		  },
+		  {
+			"text": "pop music"
+		  },
+		  {
+			"text": "pop music please"
+		  },
+		  {
+			"text": "Poppurer music"
+		  },
+		  {
+			"text": "pouse music"
+		  },
+		  {
+			"text": "power on"
+		  },
+		  {
+			"text": "power on the heater"
+		  },
+		  {
+			"text": "power on the lights"
+		  },
+		  {
+			"text": "power up the ac"
+		  },
+		  {
+			"text": "put jazz music"
+		  },
+		  {
+			"text": "Put left indicator on"
+		  },
+		  {
+			"text": "put music"
+		  },
+		  {
+			"text": "Put something to play"
+		  },
+		  {
+			"text": "put the air con on"
+		  },
+		  {
+			"text": "Put the lights on"
+		  },
+		  {
+			"text": "random music"
+		  },
+		  {
+			"text": "Rap music"
+		  },
+		  {
+			"text": "really music"
+		  },
+		  {
+			"text": "recent music"
+		  },
+		  {
+			"text": "Rocking music"
+		  },
+		  {
+			"text": "Rock music."
+		  },
+		  {
+			"text": "Rock Music"
+		  },
+		  {
+			"text": "Rock music is my favorite"
+		  },
+		  {
+			"text": "rock music please"
+		  },
+		  {
+			"text": "rurn on lights"
+		  },
+		  {
+			"text": "soft music"
+		  },
+		  {
+			"text": "so play it"
+		  },
+		  {
+			"text": "so please turn on the lights"
+		  },
+		  {
+			"text": "so, what if I want to make some noice"
+		  },
+		  {
+			"text": "start"
+		  },
+		  {
+			"text": "start air conditionare"
+		  },
+		  {
+			"text": "Start the radio"
+		  },
+		  {
+			"text": "start to drive"
+		  },
+		  {
+			"text": "start up"
+		  },
+		  {
+			"text": "stock music"
+		  },
+		  {
+			"text": "struck music"
+		  },
+		  {
+			"text": "sure play that"
+		  },
+		  {
+			"text": "swich on the lights"
+		  },
+		  {
+			"text": "swicht on the lights"
+		  },
+		  {
+			"text": "switched the lights on"
+		  },
+		  {
+			"text": "switch lights on"
+		  },
+		  {
+			"text": "switch on"
+		  },
+		  {
+			"text": "Switch on an air conditioner."
+		  },
+		  {
+			"text": "switch on emergency lights"
+		  },
+		  {
+			"text": "Switch on lights"
+		  },
+		  {
+			"text": "switch on thec lights"
+		  },
+		  {
+			"text": "switch on the lights?"
+		  },
+		  {
+			"text": "switch on the lights."
+		  },
+		  {
+			"text": "Switch on the lights"
+		  },
+		  {
+			"text": "switch on the lights please"
+		  },
+		  {
+			"text": "switch on the lights, please."
+		  },
+		  {
+			"text": "switch on the the ac"
+		  },
+		  {
+			"text": "switch the lights on"
+		  },
+		  {
+			"text": "switch the lights on."
+		  },
+		  {
+			"text": "swithc on lights"
+		  },
+		  {
+			"text": "swith on lights"
+		  },
+		  {
+			"text": "swith on the lights"
+		  },
+		  {
+			"text": "ta bom . play the boss hoss"
+		  },
+		  {
+			"text": "tell me about music"
+		  },
+		  {
+			"text": "ten on the lights"
+		  },
+		  {
+			"text": "tern on air conditioner"
+		  },
+		  {
+			"text": "that's good. please play some Jazz."
+		  },
+		  {
+			"text": "the music"
+		  },
+		  {
+			"text": "then on my lights"
+		  },
+		  {
+			"text": "Then play jaZz"
+		  },
+		  {
+			"text": "Then please. Play jazz."
+		  },
+		  {
+			"text": "then the lights on"
+		  },
+		  {
+			"text": "the turn the lights on"
+		  },
+		  {
+			"text": "they're on the lights"
+		  },
+		  {
+			"text": "torn on the air conditioner"
+		  },
+		  {
+			"text": "torn on the lights"
+		  },
+		  {
+			"text": "to turn on the lights"
+		  },
+		  {
+			"text": "traditional music"
+		  },
+		  {
+			"text": "trun no the wipers"
+		  },
+		  {
+			"text": "Trun on lights"
+		  },
+		  {
+			"text": "trun on my lights"
+		  },
+		  {
+			"text": "trun on the lights"
+		  },
+		  {
+			"text": "TTurn on the lights"
+		  },
+		  {
+			"text": "tuen on te lights"
+		  },
+		  {
+			"text": "tuen on the lights"
+		  },
+		  {
+			"text": "tune music"
+		  },
+		  {
+			"text": "tun on lights"
+		  },
+		  {
+			"text": "Tun on my lights"
+		  },
+		  {
+			"text": "tuno on the lights"
+		  },
+		  {
+			"text": "tunr on lights"
+		  },
+		  {
+			"text": "tunr on the lights"
+		  },
+		  {
+			"text": "turn de lights on"
+		  },
+		  {
+			"text": "turne on my lights"
+		  },
+		  {
+			"text": "turn head lights on"
+		  },
+		  {
+			"text": "turning lights on"
+		  },
+		  {
+			"text": "turning on lights"
+		  },
+		  {
+			"text": "turn lights and ac on"
+		  },
+		  {
+			"text": "turn lights on"
+		  },
+		  {
+			"text": "turnm on your lights"
+		  },
+		  {
+			"text": "turn my lights on for me"
+		  },
+		  {
+			"text": "turn my wipers on"
+		  },
+		  {
+			"text": "Turn no my light"
+		  },
+		  {
+			"text": "turn off headlights on"
+		  },
+		  {
+			"text": "turn on"
+		  },
+		  {
+			"text": "Turn on back lights"
+		  },
+		  {
+			"text": "turn on bright lights"
+		  },
+		  {
+			"text": "Play Future"
+		  },
+		  {
+			"text": "Play game"
+		  },
+		  {
+			"text": "play games"
+		  },
+		  {
+			"text": "Play Garbage"
+		  },
+		  {
+			"text": "play greenday"
+		  },
+		  {
+			"text": "play guns and rosses"
+		  },
+		  {
+			"text": "play hard rock please"
+		  },
+		  {
+			"text": "play headlights jazz"
+		  },
+		  {
+			"text": "play heavy metal"
+		  },
+		  {
+			"text": "play hindi song"
+		  },
+		  {
+			"text": "play hip hop"
+		  },
+		  {
+			"text": "play hip-hop"
+		  },
+		  {
+			"text": "Play hip hop!"
+		  },
+		  {
+			"text": "play hockey"
+		  },
+		  {
+			"text": "play hotel california"
+		  },
+		  {
+			"text": "play Imagine Dragon"
+		  },
+		  {
+			"text": "play imagine dragons"
+		  },
+		  {
+			"text": "playing music"
+		  },
+		  {
+			"text": "play it"
+		  },
+		  {
+			"text": "Play it!"
+		  },
+		  {
+			"text": "play it then"
+		  },
+		  {
+			"text": "play iut"
+		  },
+		  {
+			"text": "Play jackson"
+		  },
+		  {
+			"text": "play jass"
+		  },
+		  {
+			"text": "play jasz"
+		  },
+		  {
+			"text": "Play jazz."
+		  },
+		  {
+			"text": "PLay jazz"
+		  },
+		  {
+			"text": "Play jazz again please"
+		  },
+		  {
+			"text": "play jazz headlights"
+		  },
+		  {
+			"text": "play jazz please"
+		  },
+		  {
+			"text": "Play Jazz song"
+		  },
+		  {
+			"text": "play j cole"
+		  },
+		  {
+			"text": "play jet"
+		  },
+		  {
+			"text": "play jimy hendrix"
+		  },
+		  {
+			"text": "play joe cocker"
+		  },
+		  {
+			"text": "play joe satriani"
+		  },
+		  {
+			"text": "Play john cougar"
+		  },
+		  {
+			"text": "Play John Lennon"
+		  },
+		  {
+			"text": "play justin bieber"
+		  },
+		  {
+			"text": "play karnatic"
+		  },
+		  {
+			"text": "play kimigayo"
+		  },
+		  {
+			"text": "play kiss 95.5"
+		  },
+		  {
+			"text": "play lady gaga"
+		  },
+		  {
+			"text": "play led zeppelin"
+		  },
+		  {
+			"text": "Play Led Zepplin"
+		  },
+		  {
+			"text": "play light"
+		  },
+		  {
+			"text": "play limp bizkit"
+		  },
+		  {
+			"text": "Play linkin park"
+		  },
+		  {
+			"text": "play marc anthony"
+		  },
+		  {
+			"text": "play lynard skynard"
+		  },
+		  {
+			"text": "play marvin gaye"
+		  },
+		  {
+			"text": "Play Megaphonix"
+		  },
+		  {
+			"text": "play me some rock"
+		  },
+		  {
+			"text": "Play Metal"
+		  },
+		  {
+			"text": "play metalica"
+		  },
+		  {
+			"text": "play michael bublet"
+		  },
+		  {
+			"text": "80's music"
+		  },
+		  {
+			"text": "Ã¯Â¼Â©'d liket to listen to the radio"
+		  },
+		  {
+			"text": "Ã‚Â´play music"
+		  },
+		  {
+			"text": "activate the jams"
+		  },
+		  {
+			"text": "activate the music"
+		  },
+		  {
+			"text": "Air conditioner on"
+		  },
+		  {
+			"text": "air condition on"
+		  },
+		  {
+			"text": "air on"
+		  },
+		  {
+			"text": "Air on please."
+		  },
+		  {
+			"text": "also turn on the lights"
+		  },
+		  {
+			"text": "and set on lights"
+		  },
+		  {
+			"text": "and they hid lights on"
+		  },
+		  {
+			"text": "any jazz music?"
+		  },
+		  {
+			"text": "arabic music"
+		  },
+		  {
+			"text": "Play Michael Jackson"
+		  },
+		  {
+			"text": "are my lights on"
+		  },
+		  {
+			"text": "baroque music please"
+		  },
+		  {
+			"text": "Basim music"
+		  },
+		  {
+			"text": "bethoveen classical music"
+		  },
+		  {
+			"text": "blue music please"
+		  },
+		  {
+			"text": "blues music"
+		  },
+		  {
+			"text": "brazilian music"
+		  },
+		  {
+			"text": "can i have some cooling"
+		  },
+		  {
+			"text": "can I have the headlights"
+		  },
+		  {
+			"text": "Can I hear music?"
+		  },
+		  {
+			"text": "Can i turn on the lights"
+		  },
+		  {
+			"text": "can the lights  be turned on"
+		  },
+		  {
+			"text": "can you play ac dc"
+		  },
+		  {
+			"text": "Can you play a happy song"
+		  },
+		  {
+			"text": "can you play a really long song?"
+		  },
+		  {
+			"text": "can you play a song"
+		  },
+		  {
+			"text": "can you play a song?"
+		  },
+		  {
+			"text": "can you play a song of my choice?"
+		  },
+		  {
+			"text": "can you play blues"
+		  },
+		  {
+			"text": "can you play Imagine dragons?"
+		  },
+		  {
+			"text": "can you play jazz"
+		  },
+		  {
+			"text": "can you play jazz?"
+		  },
+		  {
+			"text": "can you play Meatloaf?"
+		  },
+		  {
+			"text": "Can you play metallica"
+		  },
+		  {
+			"text": "can you play mi favorite playlist?"
+		  },
+		  {
+			"text": "can you play my favorite song"
+		  },
+		  {
+			"text": "can you play one especific rock band?"
+		  },
+		  {
+			"text": "can you play pop"
+		  },
+		  {
+			"text": "can you play queen"
+		  },
+		  {
+			"text": "can you play radio for me"
+		  },
+		  {
+			"text": "can you play rap"
+		  },
+		  {
+			"text": "can you play rock and jazz"
+		  },
+		  {
+			"text": "can you play rock-n-roll?"
+		  },
+		  {
+			"text": "can you play the wiper washer"
+		  },
+		  {
+			"text": "can you please music"
+		  },
+		  {
+			"text": "can you turn on the wipers"
+		  },
+		  {
+			"text": "can you turn on wipers when it is raining?"
+		  },
+		  {
+			"text": "chinese  music"
+		  },
+		  {
+			"text": "Chinese music"
+		  },
+		  {
+			"text": "Classical music"
+		  },
+		  {
+			"text": "classical music please"
+		  },
+		  {
+			"text": "Classic music."
+		  },
+		  {
+			"text": "Classic Music"
+		  },
+		  {
+			"text": "classic music please"
+		  },
+		  {
+			"text": "classic music. please"
+		  },
+		  {
+			"text": "Could play Metallica"
+		  },
+		  {
+			"text": "could you play jazz?"
+		  },
+		  {
+			"text": "could you please light on please?"
+		  },
+		  {
+			"text": "could you please turn on the old headlights as it is getting rather dark"
+		  },
+		  {
+			"text": "Country music."
+		  },
+		  {
+			"text": "crank up the music"
+		  },
+		  {
+			"text": "Cuban music"
+		  },
+		  {
+			"text": "do you have any rock music"
+		  },
+		  {
+			"text": "electronic dance music"
+		  },
+		  {
+			"text": "electronic music"
+		  },
+		  {
+			"text": "eletronic music"
+		  },
+		  {
+			"text": "English Music"
+		  },
+		  {
+			"text": "find me a good station"
+		  },
+		  {
+			"text": "Find me some music"
+		  },
+		  {
+			"text": "find some jazz music"
+		  },
+		  {
+			"text": "find some music"
+		  },
+		  {
+			"text": "fine turn on lights"
+		  },
+		  {
+			"text": "first of all turn on the lights"
+		  },
+		  {
+			"text": "Folk music"
+		  },
+		  {
+			"text": "get latin music"
+		  },
+		  {
+			"text": "get music"
+		  },
+		  {
+			"text": "get those lights on"
+		  },
+		  {
+			"text": "Give me some sound."
+		  },
+		  {
+			"text": "good song music"
+		  },
+		  {
+			"text": "great shorts turn on lights"
+		  },
+		  {
+			"text": "halt the music"
+		  },
+		  {
+			"text": "hard rock music"
+		  },
+		  {
+			"text": "Head lights ON"
+		  }
+		]
+	  },
+	  {
+		"intent": "locate_amenity",
+		"examples": [
+		  {
+			"text": "or in the restaurant"
+		  },
+		  {
+			"text": "which is the nearest gas station"
+		  },
+		  {
+			"text": "Which is the closest salon?"
+		  },
+		  {
+			"text": "Which is closest?"
+		  },
+		  {
+			"text": "Where us restoraunt?"
+		  },
+		  {
+			"text": "Where to have lunch"
+		  },
+		  {
+			"text": "where there is the next hotel"
+		  },
+		  {
+			"text": "where the GS"
+		  },
+		  {
+			"text": "where's the nearest station?"
+		  },
+		  {
+			"text": "where's the nearest petrol station"
+		  },
+		  {
+			"text": "where's the nearest fast food place?"
+		  },
+		  {
+			"text": "where's the nearest exit"
+		  },
+		  {
+			"text": "where's starbucks?"
+		  },
+		  {
+			"text": "where's houston"
+		  },
+		  {
+			"text": "Where should i go to eat?"
+		  },
+		  {
+			"text": "Where's burgers?"
+		  },
+		  {
+			"text": "where's a good resturaunt"
+		  },
+		  {
+			"text": "where restoran"
+		  },
+		  {
+			"text": "where is there petrol?"
+		  },
+		  {
+			"text": "where is there a good hotel"
+		  },
+		  {
+			"text": "where is the next stop"
+		  },
+		  {
+			"text": "where is the next pit stop ?"
+		  },
+		  {
+			"text": "where is the next bus stop?"
+		  },
+		  {
+			"text": "where is the next book store"
+		  },
+		  {
+			"text": "Where is the nearest station?"
+		  },
+		  {
+			"text": "where is the nearest railway station"
+		  },
+		  {
+			"text": "where is the nearest police station here"
+		  },
+		  {
+			"text": "Where is the nearest petrol station"
+		  },
+		  {
+			"text": "where is the nearest petrol station?"
+		  },
+		  {
+			"text": "where is the nearest gsa station?"
+		  },
+		  {
+			"text": "where is the nearest gaz station"
+		  },
+		  {
+			"text": "where is the nearest gasoline station ?"
+		  },
+		  {
+			"text": "where is the nearest filling station"
+		  },
+		  {
+			"text": "Where is the moon"
+		  },
+		  {
+			"text": "where is the bus stop"
+		  },
+		  {
+			"text": "where is the"
+		  },
+		  {
+			"text": "where is Tacos"
+		  },
+		  {
+			"text": "where is nearest petrol station"
+		  },
+		  {
+			"text": "Where is my home?"
+		  },
+		  {
+			"text": "where is my home"
+		  },
+		  {
+			"text": "Where is my favorite restaraunt?"
+		  },
+		  {
+			"text": "where is gus stations."
+		  },
+		  {
+			"text": "where is ATM"
+		  },
+		  {
+			"text": "where is a petrol station ?"
+		  },
+		  {
+			"text": "where is a petrol station"
+		  },
+		  {
+			"text": "where is a gas station"
+		  },
+		  {
+			"text": "where is a fuel station"
+		  },
+		  {
+			"text": "where in the nearests CVS?"
+		  },
+		  {
+			"text": "Where do I can get tacos?"
+		  },
+		  {
+			"text": "where chinese restaulant?"
+		  },
+		  {
+			"text": "Where can we go?"
+		  },
+		  {
+			"text": "where can i have pizza"
+		  },
+		  {
+			"text": "Where can I eat tacos?"
+		  },
+		  {
+			"text": "where can i eat pizza"
+		  },
+		  {
+			"text": "where can I eat a good steakc"
+		  },
+		  {
+			"text": "where can i drink"
+		  },
+		  {
+			"text": "where are we going to?"
+		  },
+		  {
+			"text": "Where are the restrooms?"
+		  },
+		  {
+			"text": "where are the closest restrooms"
+		  },
+		  {
+			"text": "where are restrooms"
+		  },
+		  {
+			"text": "Where are nhe neast gas station"
+		  },
+		  {
+			"text": "Where are nearest McDonalds?"
+		  },
+		  {
+			"text": "what type of restaurant you like?"
+		  },
+		  {
+			"text": "What the nearest restrooms"
+		  },
+		  {
+			"text": "what's the nearest?"
+		  },
+		  {
+			"text": "what's the cheapest gas station around?"
+		  },
+		  {
+			"text": "what's nearby Watson"
+		  },
+		  {
+			"text": "Whats nearby"
+		  },
+		  {
+			"text": "whats nearby?"
+		  },
+		  {
+			"text": "what's near"
+		  },
+		  {
+			"text": "what's close to me"
+		  },
+		  {
+			"text": "what's closeby"
+		  },
+		  {
+			"text": "What's around here?"
+		  },
+		  {
+			"text": "whats a good restaurant around here?"
+		  },
+		  {
+			"text": "What restrooms are nearby?"
+		  },
+		  {
+			"text": "what restaurants"
+		  },
+		  {
+			"text": "what restaurant?"
+		  },
+		  {
+			"text": "what place is most popular?"
+		  },
+		  {
+			"text": "What is your advice where to eat fish"
+		  },
+		  {
+			"text": "Whatis the way to Sachsenhausen?"
+		  },
+		  {
+			"text": "what is the next gas station?"
+		  },
+		  {
+			"text": "what is the nearest movie theatre"
+		  },
+		  {
+			"text": "What is the closests motel"
+		  },
+		  {
+			"text": "what is that green area"
+		  },
+		  {
+			"text": "what is near me"
+		  },
+		  {
+			"text": "what is nearby"
+		  },
+		  {
+			"text": "what is near"
+		  },
+		  {
+			"text": "What is good to eat?"
+		  },
+		  {
+			"text": "what is gasoline?"
+		  },
+		  {
+			"text": "what is closeby"
+		  },
+		  {
+			"text": "What is an amenity?"
+		  },
+		  {
+			"text": "What distance is the 5 gas station?"
+		  },
+		  {
+			"text": "what are the nearest restaurants"
+		  },
+		  {
+			"text": "what are some places nearby"
+		  },
+		  {
+			"text": "what are some chinese restaurant"
+		  },
+		  {
+			"text": "What about a gas station?"
+		  },
+		  {
+			"text": "were is the nearest bar"
+		  },
+		  {
+			"text": "We need gas"
+		  },
+		  {
+			"text": "well you certainly are at the restaurant"
+		  },
+		  {
+			"text": "well the next restaurant"
+		  },
+		  {
+			"text": "Watson I need gas station"
+		  },
+		  {
+			"text": "washrooms nearby"
+		  },
+		  {
+			"text": "want to go to the rest room!"
+		  },
+		  {
+			"text": "want to go to car shop"
+		  },
+		  {
+			"text": "ÛÛwhere is the nearest hotels?"
+		  },
+		  {
+			"text": "turn on the lights and find a restaurant"
+		  },
+		  {
+			"text": "TThe closest"
+		  },
+		  {
+			"text": "Traduzir  qual o restaurante mais perto  which the restaurant closer"
+		  },
+		  {
+			"text": "Trace route to Sao Paulo"
+		  },
+		  {
+			"text": "to the shops"
+		  },
+		  {
+			"text": "to the cheapest"
+		  },
+		  {
+			"text": "To numbre 2"
+		  },
+		  {
+			"text": "to nr 2"
+		  },
+		  {
+			"text": "to Nevada"
+		  },
+		  {
+			"text": "to lima"
+		  },
+		  {
+			"text": "To gas station please!"
+		  },
+		  {
+			"text": "to eat Chinese food"
+		  },
+		  {
+			"text": "to another place"
+		  },
+		  {
+			"text": "the second pasta restaurant"
+		  },
+		  {
+			"text": "the closest restaruant"
+		  },
+		  {
+			"text": "The closest please"
+		  },
+		  {
+			"text": "lets go to the river"
+		  },
+		  {
+			"text": "lets go to the resturant"
+		  },
+		  {
+			"text": "lets go to the park"
+		  },
+		  {
+			"text": "Lets go to the number 5"
+		  },
+		  {
+			"text": "lets go to rest room"
+		  },
+		  {
+			"text": "Let's go to NY"
+		  },
+		  {
+			"text": "Lets go to NewYork"
+		  },
+		  {
+			"text": "lets go to france"
+		  },
+		  {
+			"text": "lets go to burger king"
+		  },
+		  {
+			"text": "let's go for rock"
+		  },
+		  {
+			"text": "let's go for jazz"
+		  },
+		  {
+			"text": "lets go for drive"
+		  },
+		  {
+			"text": "let's get some grub"
+		  },
+		  {
+			"text": "let's get home"
+		  },
+		  {
+			"text": "let'd go to school"
+		  },
+		  {
+			"text": "just the cheapest restaurant please"
+		  },
+		  {
+			"text": "I would like to learn how to drive from Brooklyn to New York City"
+		  },
+		  {
+			"text": "I would like to hear some pop"
+		  },
+		  {
+			"text": "I would like to go to surfside."
+		  },
+		  {
+			"text": "I would like go to a restaurante"
+		  },
+		  {
+			"text": "I would like a coffee"
+		  },
+		  {
+			"text": "i would go to the seafood"
+		  },
+		  {
+			"text": "I will go to the mountains"
+		  },
+		  {
+			"text": "I will go to th Alps"
+		  },
+		  {
+			"text": "I want to view a film"
+		  },
+		  {
+			"text": "I want to stop for some food"
+		  },
+		  {
+			"text": "i want to stop"
+		  },
+		  {
+			"text": "I want to see a scenic place"
+		  },
+		  {
+			"text": "i want to see a river"
+		  },
+		  {
+			"text": "i want to see a movie"
+		  },
+		  {
+			"text": "I want to go to U.S.A."
+		  },
+		  {
+			"text": "I want to go to the gas station"
+		  },
+		  {
+			"text": "I want to go to school."
+		  },
+		  {
+			"text": "i want to go to home"
+		  },
+		  {
+			"text": "I want to go to gas station."
+		  },
+		  {
+			"text": "I want to go to beach."
+		  },
+		  {
+			"text": "I want to go to 2."
+		  },
+		  {
+			"text": "I want to go back to home"
+		  },
+		  {
+			"text": "I want to find gas station"
+		  },
+		  {
+			"text": "i want to drive home"
+		  },
+		  {
+			"text": "I want to drink beer"
+		  },
+		  {
+			"text": "i want some pizza"
+		  },
+		  {
+			"text": "I want restaurants"
+		  },
+		  {
+			"text": "i want restaurant 2"
+		  },
+		  {
+			"text": "I want pizza"
+		  },
+		  {
+			"text": "I wan to go Gas station."
+		  },
+		  {
+			"text": "i wan to go gas station"
+		  },
+		  {
+			"text": "I wan to drink with my friend"
+		  },
+		  {
+			"text": "i want near restaurants full of light"
+		  },
+		  {
+			"text": "i want go restaurant"
+		  },
+		  {
+			"text": "I want gas"
+		  },
+		  {
+			"text": "i wanna to nightclub"
+		  },
+		  {
+			"text": "i wanna to dance tonight"
+		  },
+		  {
+			"text": "i wanna go to sea."
+		  },
+		  {
+			"text": "I wanna go to hospital"
+		  },
+		  {
+			"text": "I wanna go to arestaurant"
+		  },
+		  {
+			"text": "i wanna get food"
+		  },
+		  {
+			"text": "i think we need gas"
+		  },
+		  {
+			"text": "Italian food is a kind of food"
+		  },
+		  {
+			"text": "Is there someplace I can eat around here?"
+		  },
+		  {
+			"text": "is there factory outlet near here?"
+		  },
+		  {
+			"text": "Is there any shopping mall nearby?"
+		  },
+		  {
+			"text": "Is there any resturant nearby?"
+		  },
+		  {
+			"text": "is there any pub nearby?"
+		  },
+		  {
+			"text": "is there any hotel nearby"
+		  },
+		  {
+			"text": "is there a good chinese resturant nearby?"
+		  },
+		  {
+			"text": "is there a gas station close by ?"
+		  },
+		  {
+			"text": "is there a gas station close"
+		  },
+		  {
+			"text": "is there a gas station?"
+		  },
+		  {
+			"text": "is there a gas station ?"
+		  },
+		  {
+			"text": "Is there a convenience  store?"
+		  },
+		  {
+			"text": "I see, I'm not sure if gas stations are necessary. How about restaurants?"
+		  },
+		  {
+			"text": "I prefer rock to Jazz"
+		  },
+		  {
+			"text": "In want to go to the beach"
+		  },
+		  {
+			"text": "Information on locations near me"
+		  },
+		  {
+			"text": "i need to stop for"
+		  },
+		  {
+			"text": "I need to pee"
+		  },
+		  {
+			"text": "i need to have a rest"
+		  },
+		  {
+			"text": "I need to eat some tacos"
+		  },
+		  {
+			"text": "i need to eat rice"
+		  },
+		  {
+			"text": "I need to eat"
+		  },
+		  {
+			"text": "i need to do some shopping"
+		  },
+		  {
+			"text": "i need to buy flowers"
+		  },
+		  {
+			"text": "I need some money"
+		  },
+		  {
+			"text": "I need some lunch"
+		  },
+		  {
+			"text": "i need some coffee"
+		  },
+		  {
+			"text": "i need some beer"
+		  },
+		  {
+			"text": "I need restrooms"
+		  },
+		  {
+			"text": "I need gas station"
+		  },
+		  {
+			"text": "i need directions to your moms house"
+		  },
+		  {
+			"text": "I need a toilet"
+		  },
+		  {
+			"text": "I need a resturant in nairobi"
+		  },
+		  {
+			"text": "i need another gas station"
+		  },
+		  {
+			"text": "i need a hotel"
+		  },
+		  {
+			"text": "I need a hospital"
+		  },
+		  {
+			"text": "yep, need a hotel for tonight"
+		  },
+		  {
+			"text": "yeah a nice coffee place"
+		  },
+		  {
+			"text": "Whta is the nearst gas station from now."
+		  },
+		  {
+			"text": "Whre is the nearest resturant"
+		  },
+		  {
+			"text": "which the restaurant closer"
+		  },
+		  {
+			"text": "which one is closest?"
+		  },
+		  {
+			"text": "I need a garage"
+		  },
+		  {
+			"text": "I need a destination"
+		  },
+		  {
+			"text": "I need a bathroom"
+		  },
+		  {
+			"text": "I'm thinking about some beef jerky"
+		  },
+		  {
+			"text": "I'm thinking about a nice, juicy steak"
+		  },
+		  {
+			"text": "I'm in the mood for having a hamburger"
+		  },
+		  {
+			"text": "im hungry I want to eat something"
+		  },
+		  {
+			"text": "i'm hungry"
+		  },
+		  {
+			"text": "I'm craving a burger."
+		  },
+		  {
+			"text": "im almost out of gas"
+		  },
+		  {
+			"text": "i like some coffee"
+		  },
+		  {
+			"text": "i like pizza"
+		  },
+		  {
+			"text": "I have to go to the bathroom"
+		  },
+		  {
+			"text": "I have hungry like a wolf"
+		  },
+		  {
+			"text": "i feel like getting a coffee"
+		  },
+		  {
+			"text": "I dont have gas"
+		  },
+		  {
+			"text": "I'd need a toilet"
+		  },
+		  {
+			"text": "I'd like to see a movie."
+		  },
+		  {
+			"text": "I'd like to see a map"
+		  },
+		  {
+			"text": "I'd like to go somewhere I can swim"
+		  },
+		  {
+			"text": "I'd like to go skiing"
+		  },
+		  {
+			"text": "I'd like to go camping"
+		  },
+		  {
+			"text": "I'd like to get something to eat"
+		  },
+		  {
+			"text": "I'd like to eat something"
+		  },
+		  {
+			"text": "I'd like some coffee"
+		  },
+		  {
+			"text": "Go to San Diego"
+		  },
+		  {
+			"text": "go to Safeway"
+		  },
+		  {
+			"text": "go to resturunt"
+		  },
+		  {
+			"text": "go to restuarnts"
+		  },
+		  {
+			"text": "Go to restrant"
+		  },
+		  {
+			"text": "go to restaurannt"
+		  },
+		  {
+			"text": "go to restaraun"
+		  },
+		  {
+			"text": "go to piracicaba"
+		  },
+		  {
+			"text": "go to park"
+		  },
+		  {
+			"text": "go to paris"
+		  },
+		  {
+			"text": "go to orlando"
+		  },
+		  {
+			"text": "go to nyc"
+		  },
+		  {
+			"text": "Go to NY"
+		  },
+		  {
+			"text": "Go to number 2."
+		  },
+		  {
+			"text": "Go to NewYork"
+		  },
+		  {
+			"text": "go to natianal park"
+		  },
+		  {
+			"text": "Go to movie"
+		  },
+		  {
+			"text": "Go to moskow"
+		  },
+		  {
+			"text": "go to mcdonalds"
+		  },
+		  {
+			"text": "Go to mauntain"
+		  },
+		  {
+			"text": "Go to London"
+		  },
+		  {
+			"text": "go to LA"
+		  },
+		  {
+			"text": "go to ibm hortolandia"
+		  },
+		  {
+			"text": "go to house"
+		  },
+		  {
+			"text": "go to hotel"
+		  },
+		  {
+			"text": "go to hospital"
+		  },
+		  {
+			"text": "Go to home"
+		  },
+		  {
+			"text": "go to home."
+		  },
+		  {
+			"text": "go to harden nsw"
+		  },
+		  {
+			"text": "Go to Hamilton"
+		  },
+		  {
+			"text": "Go to Germany"
+		  },
+		  {
+			"text": "go to gas station 2"
+		  },
+		  {
+			"text": "go to gas station 1."
+		  },
+		  {
+			"text": "go to gas station 1"
+		  },
+		  {
+			"text": "go to gas station"
+		  },
+		  {
+			"text": "go to fouth"
+		  },
+		  {
+			"text": "Go to five"
+		  },
+		  {
+			"text": "go to first gas station"
+		  },
+		  {
+			"text": "Go to Esso"
+		  },
+		  {
+			"text": "go to disco"
+		  },
+		  {
+			"text": "go to cinema"
+		  },
+		  {
+			"text": "go to Campinas"
+		  },
+		  {
+			"text": "go to burguers"
+		  },
+		  {
+			"text": "go to burgers"
+		  },
+		  {
+			"text": "go to amsterdam center"
+		  },
+		  {
+			"text": "go to amenity"
+		  },
+		  {
+			"text": "go to amelia"
+		  },
+		  {
+			"text": "go to airport"
+		  },
+		  {
+			"text": "go to a"
+		  },
+		  {
+			"text": "go to 7-11"
+		  },
+		  {
+			"text": "go to 5"
+		  },
+		  {
+			"text": "go to 4"
+		  },
+		  {
+			"text": "go to 2 gas station"
+		  },
+		  {
+			"text": "gold to Olema"
+		  },
+		  {
+			"text": "go get some tacos"
+		  },
+		  {
+			"text": "go for a swim"
+		  },
+		  {
+			"text": "go for a city now"
+		  },
+		  {
+			"text": "go back to homz"
+		  },
+		  {
+			"text": "give me the address of italian restaurant"
+		  },
+		  {
+			"text": "give me some drink"
+		  },
+		  {
+			"text": "give me nearest burger joint"
+		  },
+		  {
+			"text": "give me directions"
+		  },
+		  {
+			"text": "Give me a pub street"
+		  },
+		  {
+			"text": "get. Some tacos"
+		  },
+		  {
+			"text": "get me home"
+		  },
+		  {
+			"text": "get me gas station"
+		  },
+		  {
+			"text": "get me directions"
+		  },
+		  {
+			"text": "Get me a sandwich"
+		  },
+		  {
+			"text": "Get me an uber"
+		  },
+		  {
+			"text": "gas stop"
+		  },
+		  {
+			"text": "Gas station nearby"
+		  },
+		  {
+			"text": "gas fuel"
+		  },
+		  {
+			"text": "gas"
+		  },
+		  {
+			"text": "french restaurants are my fav"
+		  },
+		  {
+			"text": "fool i said i need to eat an ice cream"
+		  },
+		  {
+			"text": "food nearest food"
+		  },
+		  {
+			"text": "fly to North Carolina"
+		  },
+		  {
+			"text": "find townsend hall"
+		  },
+		  {
+			"text": "Find to me the nearest gaz station"
+		  },
+		  {
+			"text": "find toilet"
+		  },
+		  {
+			"text": "Find the place with rich nature"
+		  },
+		  {
+			"text": "find the next MCdonalds"
+		  },
+		  {
+			"text": "Find the next gas station"
+		  },
+		  {
+			"text": "find the next gasstation"
+		  },
+		  {
+			"text": "find the nearst gas station"
+		  },
+		  {
+			"text": "find the last road"
+		  },
+		  {
+			"text": "find the italian restruant"
+		  },
+		  {
+			"text": "find the gas station"
+		  },
+		  {
+			"text": "find the closet gas station"
+		  },
+		  {
+			"text": "find the cheapest gas station"
+		  },
+		  {
+			"text": "Find tacos"
+		  },
+		  {
+			"text": "find s washroom"
+		  },
+		  {
+			"text": "find supermarket"
+		  },
+		  {
+			"text": "find subway"
+		  },
+		  {
+			"text": "find stations then"
+		  },
+		  {
+			"text": "restrooms show"
+		  },
+		  {
+			"text": "restroom"
+		  },
+		  {
+			"text": "restaurants tacos"
+		  },
+		  {
+			"text": "restaurants serving tacos"
+		  },
+		  {
+			"text": "restaurants"
+		  },
+		  {
+			"text": "Restaurant around this area"
+		  },
+		  {
+			"text": "restaurant"
+		  },
+		  {
+			"text": "restarurants near"
+		  },
+		  {
+			"text": "Recommend somewhere to visit"
+		  },
+		  {
+			"text": "Please tell me the best places to visit in 11040"
+		  },
+		  {
+			"text": "please tell me nice restrant near here"
+		  },
+		  {
+			"text": "please steer to the right"
+		  },
+		  {
+			"text": "please show me resturants"
+		  },
+		  {
+			"text": "please navigate go to restrant."
+		  },
+		  {
+			"text": "please go to Tacobell"
+		  },
+		  {
+			"text": "please give me to my house"
+		  },
+		  {
+			"text": "please fin nearby gas station"
+		  },
+		  {
+			"text": "Please find the next gas station"
+		  },
+		  {
+			"text": "please find the gas station"
+		  },
+		  {
+			"text": "please find that gas station"
+		  },
+		  {
+			"text": "please  find hospital"
+		  },
+		  {
+			"text": "Please drive me home."
+		  },
+		  {
+			"text": "Please drive me home"
+		  },
+		  {
+			"text": "pizza, please."
+		  },
+		  {
+			"text": "pizza"
+		  },
+		  {
+			"text": "parks nearby..."
+		  },
+		  {
+			"text": "or the restaurant"
+		  },
+		  {
+			"text": "order a pizza"
+		  },
+		  {
+			"text": "ok restroom would be nice"
+		  },
+		  {
+			"text": "Ok ....please find a good resort for me"
+		  },
+		  {
+			"text": "OK, lets go to Tokyo!"
+		  },
+		  {
+			"text": "ok...lets go for a long drive"
+		  },
+		  {
+			"text": "OK. go to No.3"
+		  },
+		  {
+			"text": "Ok, get me spaghettis"
+		  },
+		  {
+			"text": "OK. Gas station. How far is the nearest gas station is located?"
+		  },
+		  {
+			"text": "okay let's go for jazz"
+		  },
+		  {
+			"text": "Okay let's go for burgers."
+		  },
+		  {
+			"text": "no i need to eat ice creams"
+		  },
+		  {
+			"text": "no I mean the restaurant"
+		  },
+		  {
+			"text": "never mind, locate an amenity"
+		  },
+		  {
+			"text": "nevermind, i think i need some food instead"
+		  },
+		  {
+			"text": "need a restaurent"
+		  },
+		  {
+			"text": "need a map"
+		  },
+		  {
+			"text": "need a gas station"
+		  },
+		  {
+			"text": "ned space to stay"
+		  },
+		  {
+			"text": "near school"
+		  },
+		  {
+			"text": "near restrunt"
+		  },
+		  {
+			"text": "near one"
+		  },
+		  {
+			"text": "near gasstation go"
+		  },
+		  {
+			"text": "nearest restaurtant  aroungd me"
+		  },
+		  {
+			"text": "nearby Tacos"
+		  },
+		  {
+			"text": "nearby supermarket"
+		  },
+		  {
+			"text": "near by shopping"
+		  },
+		  {
+			"text": "near by seattle"
+		  },
+		  {
+			"text": "nearby rivers?"
+		  },
+		  {
+			"text": "near by resturant"
+		  },
+		  {
+			"text": "near by restaurent"
+		  },
+		  {
+			"text": "nearby restaurant"
+		  },
+		  {
+			"text": "nearby residents"
+		  },
+		  {
+			"text": "nearby mc donalds"
+		  },
+		  {
+			"text": "nearby hspitals"
+		  },
+		  {
+			"text": "Nearby hotels"
+		  },
+		  {
+			"text": "nearby hotel"
+		  },
+		  {
+			"text": "nearby hospital"
+		  },
+		  {
+			"text": "near by hospital"
+		  },
+		  {
+			"text": "nearby gas station"
+		  },
+		  {
+			"text": "Navigation"
+		  },
+		  {
+			"text": "navigate to work"
+		  },
+		  {
+			"text": "navigate to the nearest gas station"
+		  },
+		  {
+			"text": "navigate to the mall"
+		  },
+		  {
+			"text": "navigate to the citibank"
+		  },
+		  {
+			"text": "navigate to superstore"
+		  },
+		  {
+			"text": "navigate to school"
+		  },
+		  {
+			"text": "navigate to Pomona"
+		  },
+		  {
+			"text": "navigate to menara dayabumi"
+		  },
+		  {
+			"text": "navigate to macdonalds"
+		  },
+		  {
+			"text": "navigate to london"
+		  },
+		  {
+			"text": "navigate to kochi"
+		  },
+		  {
+			"text": "navigate to gas station"
+		  },
+		  {
+			"text": "navigate to dayabumi"
+		  },
+		  {
+			"text": "navigate to 4th"
+		  },
+		  {
+			"text": "Navigate me to the next lake"
+		  },
+		  {
+			"text": "Navigate me to the next city"
+		  },
+		  {
+			"text": "navigate me to the coffe shop"
+		  },
+		  {
+			"text": "name the restaurant"
+		  },
+		  {
+			"text": "mmm, i don't want music, i prefer you find me a good restaurant"
+		  },
+		  {
+			"text": "make a coffee"
+		  },
+		  {
+			"text": "looking for a movie"
+		  },
+		  {
+			"text": "looking for a gas station"
+		  },
+		  {
+			"text": "look for a gas station"
+		  },
+		  {
+			"text": "locate the gas station within 1 KM"
+		  },
+		  {
+			"text": "locate starbucks"
+		  },
+		  {
+			"text": "locate poznan"
+		  },
+		  {
+			"text": "Locate McDonalds"
+		  },
+		  {
+			"text": "Locate gas station"
+		  },
+		  {
+			"text": "locate burgers"
+		  },
+		  {
+			"text": "locate ammenity"
+		  },
+		  {
+			"text": "locate amenity"
+		  },
+		  {
+			"text": "list of 5 next gas stations"
+		  },
+		  {
+			"text": "let you to another city"
+		  },
+		  {
+			"text": "let's stop at gas station"
+		  },
+		  {
+			"text": "lets not go to work, suggest somewhere nice"
+		  },
+		  {
+			"text": "Lets head up to number 2"
+		  },
+		  {
+			"text": "Lets go to the store"
+		  },
+		  {
+			"text": "find starbucks"
+		  },
+		  {
+			"text": "Find stadium"
+		  },
+		  {
+			"text": "find some gas station"
+		  },
+		  {
+			"text": "find snacks bar"
+		  },
+		  {
+			"text": "find servo"
+		  },
+		  {
+			"text": "find seafood"
+		  },
+		  {
+			"text": "Find school"
+		  },
+		  {
+			"text": "find rstaurants"
+		  },
+		  {
+			"text": "find resurant"
+		  },
+		  {
+			"text": "find resturants"
+		  },
+		  {
+			"text": "find resturant"
+		  },
+		  {
+			"text": "Find restuarants"
+		  },
+		  {
+			"text": "find restraunts"
+		  },
+		  {
+			"text": "find restourants"
+		  },
+		  {
+			"text": "find restorant"
+		  },
+		  {
+			"text": "find restoran, please"
+		  },
+		  {
+			"text": "find resteraunt"
+		  },
+		  {
+			"text": "find restaurents"
+		  },
+		  {
+			"text": "find rest area"
+		  },
+		  {
+			"text": "find rest"
+		  },
+		  {
+			"text": "find pizzeria"
+		  },
+		  {
+			"text": "Find Petrol pump"
+		  },
+		  {
+			"text": "find petrol"
+		  },
+		  {
+			"text": "find non veg restarant"
+		  },
+		  {
+			"text": "find next gas station"
+		  },
+		  {
+			"text": "Find my school"
+		  },
+		  {
+			"text": "find movie"
+		  },
+		  {
+			"text": "find motel"
+		  },
+		  {
+			"text": "find me the next gas station"
+		  },
+		  {
+			"text": "find me the neareset gas station"
+		  },
+		  {
+			"text": "Find me the hawker stall that sells fried carrot cake."
+		  },
+		  {
+			"text": "find me gas station with cigerette counter"
+		  },
+		  {
+			"text": "find me a restroom"
+		  },
+		  {
+			"text": "find mcdonlds"
+		  },
+		  {
+			"text": "find mcdonalds"
+		  },
+		  {
+			"text": "find mcdonald"
+		  },
+		  {
+			"text": "find mall"
+		  },
+		  {
+			"text": "Find Library."
+		  },
+		  {
+			"text": "find lclosest starbucks"
+		  },
+		  {
+			"text": "find hotel"
+		  },
+		  {
+			"text": "find hospital"
+		  },
+		  {
+			"text": "find home"
+		  },
+		  {
+			"text": "Find Hamburger shop"
+		  },
+		  {
+			"text": "Find hamburger"
+		  },
+		  {
+			"text": "find gus sation"
+		  },
+		  {
+			"text": "find gas station please."
+		  },
+		  {
+			"text": "find gas station please"
+		  },
+		  {
+			"text": "find gas station close"
+		  },
+		  {
+			"text": "Find Gas Station"
+		  },
+		  {
+			"text": "find gasstation"
+		  },
+		  {
+			"text": "find fuel"
+		  },
+		  {
+			"text": "find fastest way"
+		  },
+		  {
+			"text": "find epteke"
+		  },
+		  {
+			"text": "Find chipotle"
+		  },
+		  {
+			"text": "find chinese restraunt"
+		  },
+		  {
+			"text": "find chinese"
+		  },
+		  {
+			"text": "Find chicken"
+		  },
+		  {
+			"text": "find calte"
+		  },
+		  {
+			"text": "find cafe"
+		  },
+		  {
+			"text": "Find burger shop"
+		  },
+		  {
+			"text": "find burgers"
+		  },
+		  {
+			"text": "find burger"
+		  },
+		  {
+			"text": "find BP"
+		  },
+		  {
+			"text": "Find best option"
+		  },
+		  {
+			"text": "Find bar"
+		  },
+		  {
+			"text": "find a restroom"
+		  },
+		  {
+			"text": "find another route"
+		  },
+		  {
+			"text": "Find an imvestor"
+		  },
+		  {
+			"text": "find an amenity"
+		  },
+		  {
+			"text": "Find a fast food"
+		  },
+		  {
+			"text": "finally this restaurant"
+		  },
+		  {
+			"text": "fill the gas"
+		  },
+		  {
+			"text": "fetch me lunch locations"
+		  },
+		  {
+			"text": "Drop me to my office"
+		  },
+		  {
+			"text": "drive to the restaurant"
+		  },
+		  {
+			"text": "Drive to a petrol station."
+		  },
+		  {
+			"text": "drive through"
+		  },
+		  {
+			"text": "Drive somewhere"
+		  },
+		  {
+			"text": "Drive me home"
+		  },
+		  {
+			"text": "drive in the field"
+		  },
+		  {
+			"text": "Drive home."
+		  },
+		  {
+			"text": "Drive home"
+		  },
+		  {
+			"text": "drive by local attractions"
+		  },
+		  {
+			"text": "drive across the bridge"
+		  },
+		  {
+			"text": "do you know where the next gas station?"
+		  },
+		  {
+			"text": "Do you know pizza?"
+		  },
+		  {
+			"text": "do you know if there's any restaurant around here?"
+		  },
+		  {
+			"text": "do you know a restaurant in new york city?"
+		  },
+		  {
+			"text": "do you know a restaurant in new york city"
+		  },
+		  {
+			"text": "do you know any chinese restaurants around"
+		  },
+		  {
+			"text": "Doctors nearby"
+		  },
+		  {
+			"text": "direction to santa monica"
+		  },
+		  {
+			"text": "Direction to San Diego Airport"
+		  },
+		  {
+			"text": "direction to pharmacy"
+		  },
+		  {
+			"text": "Did we reached restaurant"
+		  },
+		  {
+			"text": "could you find gas station?"
+		  },
+		  {
+			"text": "cool. restrooms nearby?"
+		  },
+		  {
+			"text": "cool, now I wanna go to a partu"
+		  },
+		  {
+			"text": "coffee shop?"
+		  },
+		  {
+			"text": "coffee place"
+		  },
+		  {
+			"text": "Coffee"
+		  },
+		  {
+			"text": "closest one please"
+		  },
+		  {
+			"text": "Closest one"
+		  },
+		  {
+			"text": "closest one."
+		  },
+		  {
+			"text": "closest mcdonald's"
+		  },
+		  {
+			"text": "Closest gas station"
+		  },
+		  {
+			"text": "closest cafe"
+		  },
+		  {
+			"text": "closest burgers"
+		  },
+		  {
+			"text": "closest brothel"
+		  },
+		  {
+			"text": "Closest"
+		  },
+		  {
+			"text": "can you travel to italy?"
+		  },
+		  {
+			"text": "Can you take me home?"
+		  },
+		  {
+			"text": "can you show me the way please?"
+		  },
+		  {
+			"text": "can you locate a gas station"
+		  },
+		  {
+			"text": "can you help me to get to sesame street"
+		  },
+		  {
+			"text": "can you go to the third gas station instead?"
+		  },
+		  {
+			"text": "can you give me the directions"
+		  },
+		  {
+			"text": "Can you give me directions?"
+		  },
+		  {
+			"text": "can you find the nearest for me"
+		  },
+		  {
+			"text": "can you find my city ?"
+		  },
+		  {
+			"text": "The closest ones"
+		  },
+		  {
+			"text": "The closest one"
+		  },
+		  {
+			"text": "The closest gas station."
+		  },
+		  {
+			"text": "the closest gas station"
+		  },
+		  {
+			"text": "the cheapest restaurant?"
+		  },
+		  {
+			"text": "tell me restaurants in seattle"
+		  },
+		  {
+			"text": "tell me how can I go to my mother's house"
+		  },
+		  {
+			"text": "tell me fancy restaurant"
+		  },
+		  {
+			"text": "tell me about restaurants"
+		  },
+		  {
+			"text": "tell me about gas stations"
+		  },
+		  {
+			"text": "take to naples, Italy"
+		  },
+		  {
+			"text": "Take me to your favorite reteraunt"
+		  },
+		  {
+			"text": "take me to New york"
+		  },
+		  {
+			"text": "take me to nearest police station"
+		  },
+		  {
+			"text": "take me to"
+		  },
+		  {
+			"text": "take me homw"
+		  },
+		  {
+			"text": "Take a right"
+		  },
+		  {
+			"text": "tacos restaurant"
+		  },
+		  {
+			"text": "tacos nearby"
+		  },
+		  {
+			"text": "stop near some resturnant"
+		  },
+		  {
+			"text": "stop near a grocery store"
+		  },
+		  {
+			"text": "Stop for food/coffee"
+		  },
+		  {
+			"text": "stop at the restroom"
+		  },
+		  {
+			"text": "stop at restroom 1"
+		  },
+		  {
+			"text": "someting near for meal"
+		  },
+		  {
+			"text": "some mexican food"
+		  },
+		  {
+			"text": "so can you lead me to the fastest way without the jams?"
+		  },
+		  {
+			"text": "show whats near by"
+		  },
+		  {
+			"text": "show the way to the gas station"
+		  },
+		  {
+			"text": "show my way to home"
+		  },
+		  {
+			"text": "show me these resturants"
+		  },
+		  {
+			"text": "Show me the road"
+		  },
+		  {
+			"text": "show me the next restrooms"
+		  },
+		  {
+			"text": "show me the next bar"
+		  },
+		  {
+			"text": "Show me the nearest one"
+		  },
+		  {
+			"text": "show me the nearest grocery"
+		  },
+		  {
+			"text": "show me the nearest gas station"
+		  },
+		  {
+			"text": "show me the hotel"
+		  },
+		  {
+			"text": "show me the best path"
+		  },
+		  {
+			"text": "show me the 5th"
+		  },
+		  {
+			"text": "show me startbucks"
+		  },
+		  {
+			"text": "show me our route"
+		  },
+		  {
+			"text": "show me nearest gas station"
+		  },
+		  {
+			"text": "show me mexican"
+		  },
+		  {
+			"text": 
